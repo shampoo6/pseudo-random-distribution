@@ -1,0 +1,23 @@
+{
+  "name": "pseudo-random-distribution",
+  "version": "1.0.0",
+  "description": "伪随机分布算法",
+  "scripts": {
+    "get-c": "node c-generator.js -e=0.35"
+  },
+  "author": "shampoo6",
+  "license": "ISC",
+  "main": "c-generator.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shampoo6/pseudo-random-distribution.git"
+  },
+  "keywords": [
+    "prd",
+    "PRD"
+  ],
+  "bugs": {
+    "url": "https://github.com/shampoo6/pseudo-random-distribution/issues"
+  },
+  "homepage": "https://github.com/shampoo6/pseudo-random-distribution#readme"
+}
